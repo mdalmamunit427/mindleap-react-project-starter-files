@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+
+body {
+    scroll-behavior: smooth;
+}
+.isActive{
+    color: #06a055 !important;
+}
+
+
+.react-tabs {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .react-tabs__tab-list {
+    border-bottom: 1px solid #06a055;
+    margin: 0 0 10px;
+    padding: 0;
+  }
+  
+  .react-tabs__tab {
+    background: white;
+    display: inline-block;
+    position: relative;
+    list-style: none;
+    padding: 14px 24px;
+    cursor: pointer;
+  }
+  
+  .react-tabs__tab--selected {
+    background: #fff;
+    border: 1px solid #06a055 !important;
+    color: black;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .react-tabs__tab-panel {
+    display: none;
+  }
+  
+  .react-tabs__tab-panel--selected {
+    display: block;
+  }
