@@ -1,9 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# mindleap-react-template
+![mindleap-react-template](/src/assets/github-cover.png)
 
-Currently, two official plugins are available:
+## How to run this project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# mindleap-react-app
+### For Frontend 
+Follow the below steps to run the project: 
+- Firstly clone or unzip the project folder.
+* Go to the folder directory(folder name) by using the following command ``` cd mindleap-react-template ```.
++ Then run `` npm install `` commend to install node dependencies.
+- Finally, to run the project, use ``npm run dev`` command.
+
